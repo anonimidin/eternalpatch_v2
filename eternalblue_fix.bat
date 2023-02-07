@@ -9,6 +9,9 @@ chcp 65001 >nul
 title EternalBlue Defense
 
 :menu
+    :: You can also use banner locally
+    :: type banner.txt
+    curl https://raw.githubusercontent.com/r3x08/eternalpatch_v2/main/banner.txt 
     echo Main Menu:
     echo.
     echo 1. EternalBlue protect
