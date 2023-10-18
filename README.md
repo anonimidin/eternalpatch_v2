@@ -5,7 +5,7 @@
 <h3>Usage</h3>
 <ul>
   <li> Clone the repository to your local machine: 
-    <ul><code> git clone https://github.com/r3x08/enternalpatch_v2 </code></ul>
+    <ul><code> git clone https://github.com/anonimidin/enternalpatch_v2 </code></ul>
   </li>
   <li> Run the script in an administrative command prompt.</li>
   <li> Select the desired option from the menu. </li>
